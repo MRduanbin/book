@@ -6,3 +6,5 @@
 
 web site : www.reversecore.com/104  <br>
 email    : reversecore@gmail.com
+
+密码为reversecore
